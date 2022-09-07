@@ -9,5 +9,6 @@
 
 
 ## Tasks
-- [ ] [0-fizzbuzz.py](./0-fizzbuzz.py)
+- [x] [0-fizzbuzz.py](./0-fizzbuzz.py)
 - [ ] [1-print_square.js](./1-print_square.js)
+- [ ] [2-sort.rb2-sort.rb](./2-sort.rb)
