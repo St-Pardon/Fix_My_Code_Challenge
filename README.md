@@ -10,5 +10,7 @@
 
 ## Tasks
 - [x] [0-fizzbuzz.py](./0-fizzbuzz.py)
-- [ ] [1-print_square.js](./1-print_square.js)
+- [x] [1-print_square.js](./1-print_square.js)
 - [ ] [2-sort.rb2-sort.rb](./2-sort.rb)
+- [ ] [3-user.py](./3-user.py)
+- [ ] [4-delete_dnodeint](./4-delete_dnodeint)
